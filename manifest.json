@@ -1,0 +1,30 @@
+{
+  "name": "Cadora V1.O Boutique DOCSTRING-BF",
+  "short_name": "PM",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "crimson",
+  "theme_color": "crimson",
+  "orientation": "portrait-primary",
+  "description": "Application pour générer des mots de passe",
+  "icons": [
+    {
+      "src": "/img/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+  {
+    "platform": "play",
+    "id": "com.google.samples.apps.iosched"
+  }
+]
+}

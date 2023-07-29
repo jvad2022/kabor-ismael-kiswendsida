@@ -258,8 +258,8 @@ console.log(navigator.userAgent);
 
 // History
 console.log(history);
-// window.history.back();
-// history.go(-2)
+window.history.back();
+history.go(-2);
 
 //------------------------------------------------
 // SetProperty
